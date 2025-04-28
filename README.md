@@ -50,15 +50,9 @@ EDA involved exploring the Sales dataset to answer the following questions
 
 ### Results/Findings
 
-The analysis results are summarized as follows
-1. January,June and December have the higest order to shipment delays with numbers upto 21-23 days.
-2. Less orders are shipped from the puerto rico warehouse even though the puerto rico products provides better profit margin. e.g More O Brians Men's Neoprene was prioritized over Team Golf Pittersburgh even though Team Golf Pittersburgh had better profit Margin
 
 ### Recomendations
 
-- Focus on improving Standard Class shipping to puerto rico and USA.
-- Reallocate resources to peak months to avoid delays.
-- Promote faster shipment modes for high-priority products.
-- Reduce use of costly same-day shipments where delays are still high (not worth the cost) particularly for January,June and December
-
+Norway in 2020 shows the highest online sales and lowest return rates, we recommend expanding Norway-targeted marketing campaigns 
+and inventory for online channels in that region
 
