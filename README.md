@@ -48,11 +48,8 @@ EDA involved exploring the Sales dataset to answer the following questions
 - What are the monthly or seasonal sales trends?
 - Who are the top customers by sales value?
 
-### Results/Findings
-
-
 ### Recomendations
 
-Norway in 2020 shows the highest online sales and lowest return rates, we recommend expanding Norway-targeted marketing campaigns 
-and inventory for online channels in that region
+Norway in 2020 shows the highest online sales and lowest return rates, I recommend expanding Norway-targeted marketing campaigns 
+and inventory for online channels.
 
